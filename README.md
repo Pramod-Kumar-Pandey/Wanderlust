@@ -148,7 +148,7 @@ http://localhost:8080
   * Domes
   * Boats
 
-<img width="1894" height="902" alt="Screenshot 2026-06-14 183239" src="https://github.com/user-attachments/assets/0f52a58e-3701-4abf-9702-ad85643b292d" />
+![Project Screenshot](https://github.com/user-attachments/assets/0f52a58e-3701-4abf-9702-ad85643b292d)
 
 
 ## Future Improvements
